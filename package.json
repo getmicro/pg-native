@@ -1,0 +1,19 @@
+{
+  "name": "pg-native",
+  "version": "0.0.1",
+  "description": "A pg-native stub to fool esbuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getmicro/pg-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getmicro/pg-native/issues"
+  },
+  "homepage": "https://github.com/getmicro/pg-native#readme"
+}
